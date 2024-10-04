@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className="header-container"> 
       <img 
-        src="src/assets/image.jpg" 
+        src="/assets/image.jpg" 
         alt="Pokémon Banner" 
         className="banner-image" 
       />
