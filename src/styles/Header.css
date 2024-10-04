@@ -1,0 +1,23 @@
+.header-container {
+  text-align: center;
+  padding: 20px;
+  background: #FCC10F;
+  color: black;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px #0000004d;
+  margin: 20px 0;
+}
+
+.banner-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.app-title {
+  font-size: 2.5rem; 
+  margin-top: 10px;
+  font-family: 'Arial', sans-serif; 
+  text-shadow: 1px 1px 2px #00000099; 
+}

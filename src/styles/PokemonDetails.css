@@ -1,0 +1,25 @@
+.pokemon-details {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000; 
+  }
+  
+h2 {
+    margin-bottom: 10px;
+  }
+  
+  .pokemon-details img {
+    width: 100px; 
+    height: auto; 
+  }
+  
+  .pokemon-details button {
+    margin-top: 10px;
+    padding: 5px 10px;
+  }
