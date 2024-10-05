@@ -23,3 +23,4 @@ I have always loved Pokémon and have a picture catalog for over 20 years becaus
 This application allows users to search for Pokémon by name, filter them by type, and view detailed information about each Pokémon. It also provides the ability to add Pokémon to a favorites list.
 
 ## Live Site
+https://ramybenkov-pokemon-search-application.netlify.app

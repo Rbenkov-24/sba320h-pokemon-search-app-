@@ -1,10 +1,11 @@
 import '../styles/Header.css'; 
+import pokemonImage from "../assets/image.jpg";
 
 function Header() {
   return (
     <div className="header-container"> 
       <img 
-        src="/assets/image.jpg" 
+        src={pokemonImage}
         alt="Pokémon Banner" 
         className="banner-image" 
       />
